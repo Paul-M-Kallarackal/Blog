@@ -14,4 +14,4 @@ The other options would have been to go on sites like Medium and Quora, but then
 
 ### Solution
 
-So finally! Hugo my man! Took me 30 minutes to setup, and its up and running already! Looking forward to posting interesting news, Stay tuned!
+So finally! Hugo! Took me 30 minutes to setup, and its up and running already! Looking forward to posting interesting news, Stay tuned!
